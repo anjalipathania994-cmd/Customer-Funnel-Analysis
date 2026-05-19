@@ -354,6 +354,8 @@ Customer-Funnel-Analysis/
 # 📸 Dashboard Screenshots
 
 
+https://github.com/anjalipathania994-cmd/Customer-Funnel-Analysis/blob/main/Customer%20funnel_Dashboard.pbix
+
 
 # ✅ Conclusion
 
