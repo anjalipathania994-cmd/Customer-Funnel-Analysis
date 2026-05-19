@@ -94,7 +94,7 @@ Some important columns used in the project include:
 
 # 🧹 Data Cleaning Process
 
-Data cleaning was performed using **Python Pandas** to prepare the dataset for accurate analysis.
+Data cleaning was performed using **MySQL** to prepare the dataset for accurate analysis.
 
 ## ✅ Step-by-Step Cleaning Process
 
@@ -137,13 +137,13 @@ Data cleaning was performed using **Python Pandas** to prepare the dataset for a
 ### 8️⃣ Exporting Cleaned Dataset
 
 * Exported cleaned data into CSV format
-* Used cleaned dataset for SQL analysis and Power BI dashboard creation
+* Used cleaned dataset for Panadas analysis and Power BI dashboard creation
 
 ---
 
 # 📈 Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis was performed to understand customer behavior, conversion trends, and funnel performance.
+Exploratory Data Analysis (EDA) was performed using Python libraries such as Pandas, Matplotlib, and Seaborn to understand customer behavior and funnel performance.
 
 ## 🔍 What is EDA?
 
@@ -186,7 +186,7 @@ These visualizations helped in understanding customer journey and conversion per
 
 # 🗄️ SQL Analysis
 
-After cleaning the dataset in Python, MySQL was used to perform business-focused customer analysis.
+After cleaning and preparing the dataset in MySQL, Python libraries were used for deeper analysis and visualization.
 
 ## ❓ Why MySQL Was Used
 
@@ -361,12 +361,11 @@ Customer-Funnel-Analysis/
 The **Customer Funnel Analysis Project** successfully transformed raw customer data into meaningful business insights using Python, MySQL, and Power BI.
 
 This project demonstrates:
-
-* Data Cleaning using Pandas
-* Exploratory Data Analysis
-* SQL-based Customer Analysis
-* Interactive Dashboard Development
-* Business Insight Generation
+- Data Cleaning using MySQL
+- Exploratory Data Analysis using Pandas
+- Data Visualization using Matplotlib & Seaborn
+- Interactive Dashboard Development in Power BI
+- Business Insight Generation
 
 The analysis helped identify customer behavior patterns, funnel drop-off stages, conversion trends, and engagement insights. Overall, this project highlights the importance of data-driven decision-making in improving customer experience and conversion performance.
 
