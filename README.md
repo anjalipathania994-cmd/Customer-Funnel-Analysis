@@ -353,7 +353,7 @@ Customer-Funnel-Analysis/
 
 # 📸 Dashboard Screenshots
 
-![image alt](https://github.com/anjalipathania994-cmd/Customer-Funnel-Analysis/blob/main/Customer%20funnel_Dashboard.pbix)
+![Dashboard Screenshot](https://github.com/anjalipathania994-cmd/Customer-Funnel-Analysis/blob/main/Screenshot%20.png)
 
 
 # ✅ Conclusion
