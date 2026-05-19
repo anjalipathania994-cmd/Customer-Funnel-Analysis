@@ -43,13 +43,13 @@ The main objectives of this project are:
 
 | Tool / Technology | Purpose                                   |
 | ----------------- | ----------------------------------------- |
-| Python            | Data Cleaning & Exploratory Data Analysis |
+| Python            | Exploratory Data Analysis                 |
 | Pandas            | Data Manipulation & Cleaning              |
 | NumPy             | Numerical Operations                      |
 | Matplotlib        | Data Visualization                        |
 | Seaborn           | Statistical Visualization                 |
 | Jupyter Notebook  | Analysis Environment                      |
-| MySQL             | SQL Query Analysis                        |
+| MySQL             | Data Cleaning                             | 
 | Power BI          | Dashboard & Data Visualization            |
 
 ---
@@ -353,15 +353,7 @@ Customer-Funnel-Analysis/
 
 # 📸 Dashboard Screenshots
 
-> Add your Power BI dashboard screenshots here.
 
-Example:
-
-* Customer Funnel Dashboard
-* Conversion Analysis Dashboard
-* Customer Engagement Dashboard
-
----
 
 # ✅ Conclusion
 
