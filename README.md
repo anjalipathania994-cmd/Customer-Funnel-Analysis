@@ -44,7 +44,7 @@ The main objectives of this project are:
 | Tool / Technology | Purpose                                   |
 | ----------------- | ----------------------------------------- |
 | Python            | Exploratory Data Analysis                 |
-| Pandas            | Data Manipulation & Cleaning              |
+| Pandas            | Data Analysis                             |
 | NumPy             | Numerical Operations                      |
 | Matplotlib        | Data Visualization                        |
 | Seaborn           | Statistical Visualization                 |
